@@ -3,7 +3,7 @@ package test;
 import org.junit.jupiter.api.Test;
 
 import main.controllers.EstudianteController;
-import main.models.Estudiante;
+import main.Models.*;
 
 import java.util.List;
 import java.util.Map;
